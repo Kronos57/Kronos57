@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Manuel Rojas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Bienvenido,;Soy+Manuel+Rojas..;Ingeniero+de+Sistemas,;Especialista+en+Seguridad+de+la+Información,;Desarrollador+de+Software+Full+Stack,;Mentalidad+Proactiva,;Capacidad+de+Aprendizaje+Constante,;Capacidad+Analítica+para+la+Resolución+de+Problemas+,;Trabajo+en+Equipo+con+Marcos+Ágiles.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=1000&height=100&lines=Ingeniero+de+Sistemas,;Especialista+en+Seguridad+de+la+Información,;Desarrollador+de+Software+Full+Stack,;Mentalidad+Proactiva,;Capacidad+de+Aprendizaje+Continuo,;Capacidad+Analítica+para+la+Resolución+de+Problemas+,;Trabajo+en+Equipo+con+Marcos+Ágiles.."></a>
 </p>
 
 <br>
@@ -87,18 +87,9 @@
 ## 📮 Contact Me:
 
 <section align="center" style="margin-left: 10px; margin-bottom: 27px;">
-<!-- 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://github.com/progdagi">
-		<img src="https://www.svgrepo.com/show/512317/github-142.svg" width="45px">
-	</a> -->
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/manuelantoniorojasbarrero/">
 		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px">
 	</a>
-<!-- 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="">
-		<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45px">
-	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="">
-		<img src="https://www.svgrepo.com/show/452123/twitter.svg" width="48px">
-	</a> -->
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mail:manuelrojasb57@gmail.com">
 		<img src="https://www.svgrepo.com/show/249767/email-mail.svg" width="45px">
 	</a>
@@ -108,7 +99,12 @@
 <br>
 
 <div align="center" style="margin-top: 5px;">
-@ManuelRojasDev: "Thanks for visiting!"
+"Thanks for visiting my GitHub profile!"
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<br>
+
+Credits: [Manuel Rojas](https://github.com/Kronos57)
+
+Last Edited on: 05/02/2024
 
