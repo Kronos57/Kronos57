@@ -1,8 +1,6 @@
 <h1 align="center"><b>Hi , I'm Manuel Rojas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=1000&height=100&lines=Ingeniero+de+Sistemas,;Especialista+en+Seguridad+de+la+Información,;Desarrollador+de+Software+Full+Stack,;Mentalidad+Proactiva,;Capacidad+de+Aprendizaje+Continuo,;Capacidad+Analítica+para+la+Resolución+de+Problemas+,;Trabajo+en+Equipo+con+Marcos+Ágiles.."></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F528&center=true&vCenter=true&random=false&width=1000&height=100&lines=Ingeniero+de+Sistemas;Especialista+en+Seguridad+de+la+Informaci%C3%B3n;Desarrollador+de+Software+FullStack;Mentalidad+Proactiva;Capacidad+de+Aprendizaje+Cont%C3%ADnuo;Capacidad+Anal%C3%ADtica+para+la+Resoluci%C3%B3n+de+Problemas;Trabajo+en+Equipo+con+Marcos+%C3%81giles" alt="Typing SVG" /></a>
 
 <br>
 
