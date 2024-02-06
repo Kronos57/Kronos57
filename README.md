@@ -88,8 +88,6 @@
 
 </section>
 
-<br>
-
 <!--- contact list section start --->
 ## 📮 Contact Me:
 
